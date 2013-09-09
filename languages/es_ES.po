@@ -17,6 +17,10 @@ msgstr ""
 "X-Poedit-Country: UNITED STATES\n"
 "X-Poedit-SearchPath-0: ..\n"
 
+#: ../index.php:18
+msgid "Latest articles"
+msgstr "Últimos artículos"
+
 #: ../content-map-group.php:28
 msgid "More..."
 msgstr "Más..."
@@ -38,7 +42,7 @@ msgstr "Borrar"
 #: ../metaboxes/mapbox/mapbox.php:84
 #: ../metaboxes/mapbox/mapbox.php:147
 msgid "Layer options"
-msgstr "Opciones de layer"
+msgstr "Opciones de capas"
 
 #: ../metaboxes/mapbox/mapbox.php:24
 #: ../metaboxes/mapbox/mapbox.php:87
@@ -68,17 +72,17 @@ msgstr "Layer título"
 #: ../metaboxes/mapbox/mapbox.php:96
 #: ../metaboxes/mapbox/mapbox.php:159
 msgid "Hidden"
-msgstr ""
+msgstr "Oculto"
 
 #: ../metaboxes/mapbox/mapbox.php:36
 #: ../metaboxes/mapbox/mapbox.php:99
 #: ../metaboxes/mapbox/mapbox.php:162
 msgid "Default swap option"
-msgstr ""
+msgstr "Opción swap por defecto"
 
 #: ../metaboxes/mapbox/mapbox.php:50
 msgid "MapBox Setup"
-msgstr ""
+msgstr "Configuración de MapBox"
 
 #: ../metaboxes/mapbox/mapbox.php:68
 msgid "First, define your map server. Most likely you will be using the MapBox default servers. If not and you know what you are doing, feel free to type your own TileStream server url below."
